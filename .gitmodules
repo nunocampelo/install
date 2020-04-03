@@ -1,0 +1,3 @@
+[submodule "win-install"]
+	path = win-install
+	url = https://github.com/nunocampelo/win-install.git
